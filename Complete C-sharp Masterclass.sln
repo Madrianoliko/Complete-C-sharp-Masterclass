@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "039 Void Methods", "039 Void Methods\039 Void Methods.csproj", "{1FF3ED24-5727-4C28-B7BF-DAABDDA99011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "039 Void Methods", "039 Void Methods\039 Void Methods.csproj", "{1FF3ED24-5727-4C28-B7BF-DAABDDA99011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "040 Method which return value", "040 Method which return value\040 Method which return value.csproj", "{E2E536B5-560B-4E55-A2C0-D6311CD97812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "040 Method which return value", "040 Method which return value\040 Method which return value.csproj", "{E2E536B5-560B-4E55-A2C0-D6311CD97812}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "043 User Input", "043 User Input\043 User Input.csproj", "{451BDBB3-DBD3-423D-B9B0-47312A2EDD82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "043 User Input", "043 User Input\043 User Input.csproj", "{451BDBB3-DBD3-423D-B9B0-47312A2EDD82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044 Try Catch and Finally", "044 Try Catch and Finally\044 Try Catch and Finally.csproj", "{0FCC2948-DE60-4AB4-93CB-B9744B6FC6EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045 Operators", "045 Operators\045 Operators.csproj", "{10F55171-B9E5-4BDA-BAFB-5DD94109B24C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{451BDBB3-DBD3-423D-B9B0-47312A2EDD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{451BDBB3-DBD3-423D-B9B0-47312A2EDD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{451BDBB3-DBD3-423D-B9B0-47312A2EDD82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCC2948-DE60-4AB4-93CB-B9744B6FC6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCC2948-DE60-4AB4-93CB-B9744B6FC6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCC2948-DE60-4AB4-93CB-B9744B6FC6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCC2948-DE60-4AB4-93CB-B9744B6FC6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F55171-B9E5-4BDA-BAFB-5DD94109B24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F55171-B9E5-4BDA-BAFB-5DD94109B24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F55171-B9E5-4BDA-BAFB-5DD94109B24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F55171-B9E5-4BDA-BAFB-5DD94109B24C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
